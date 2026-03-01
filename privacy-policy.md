@@ -193,7 +193,7 @@ You can disable optional data collection:
 ### 6.5 Right to Be Forgotten
 
 You have the right to request deletion of all your data:
-- Contact us at: privacy@timekind.app
+- Contact us at: nemgmedia@gmail.com
 - We will delete all data associated with your request within 30 days
 
 ---
@@ -259,7 +259,7 @@ We may update this Privacy Policy from time to time. When we do:
 
 If you have questions about this Privacy Policy or our privacy practices:
 
-**Email**: privacy@timekind.app    
+**Email**: nemgmedia@gmail.com  
 **Response Time**: We will respond within 30 days
 
 ---
@@ -368,7 +368,7 @@ A: Yes. Your local data is encrypted at rest on your device. Any network communi
 
 ---
 
-**Questions?** Contact us at privacy@timekind.app
+**Questions?** Contact us at nemgmedia@gmail.com
 
 **Last Updated**: March 1, 2026  
 **Version**: 1.0.0
